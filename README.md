@@ -1,9 +1,18 @@
 # 🧠 Attendance AI – YOLO-Powered Face Detection & Recognition  
-**Real-Time Face Detection and Classification for Smart Attendance Systems**  
-GitHub • Last Commit  
-License: MIT • Python • Built with Streamlit + YOLOv5 + YOLOv8
+### 🎯 Real-Time Face Detection & Recognition for Smart Attendance Systems  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5%20%2B%20YOLOv8-Object%20Detection%20%26%20Classification-green?logo=openai)
 
 ---
+
+🎥 **Built for seamless, camera-based attendance using AI.**  
+📸 Detect faces using YOLOv5 and classify identities with YOLOv8 — all in a modern, web-based interface.  
+✨ Made for classrooms, teams, and hobby AI builders who want to *see deep learning in action*.
+
+---
+
 
 ## 💡 Project Overview & Motivation
 
