@@ -1,0 +1,6 @@
+ultralytics==8.1.23
+opencv-python
+streamlit
+Pillow
+torch
+numpy
