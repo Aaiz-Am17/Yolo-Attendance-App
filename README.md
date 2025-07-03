@@ -156,4 +156,4 @@ Special thanks to [Ultralytics](https://github.com/ultralytics/ultralytics) for 
 ## 🧠 Let's Talk AI
 
 Got feedback or ideas?  
-Connect on [LinkedIn](https://www.linkedin.com/in/aaizmohsin) or drop a ⭐ on GitHub!
+Connect on [LinkedIn](https://www.linkedin.com/in/aaiz-mohsin) or drop a ⭐ on GitHub!
