@@ -1,5 +1,7 @@
 # 🧠 Attendance AI – YOLO-Powered Face Detection & Recognition  
 ### 🎯 Real-Time Face Detection & Recognition for Smart Attendance Systems  
+[![GitHub Stars](https://img.shields.io/github/stars/Aaiz-Am17/YOLO-Attendance-App?style=social)](https://github.com/Aaiz-Am17/YOLO-Attendance-App/stargazers)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Aaiz-Am17/YOLO-Attendance-App?color=brightgreen)](https://github.com/Aaiz-Am17/YOLO-Attendance-App/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
