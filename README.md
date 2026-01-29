@@ -91,7 +91,7 @@ Not included due to privacy of training data (private student faces).
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/YOLO-Attendance-App.git
+git clone https://github.com/Aaiz-Am17/YOLO-Attendance-App.git
 cd YOLO-Attendance-App
 ```
 
